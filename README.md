@@ -18,14 +18,17 @@ Here are some of the projects I’ve worked on to improve my QA and development 
 Created detailed bug reports using a sample e-commerce application.
 Categorized defects by severity and priority.
 Practiced with JIRA-like workflows.
+
 🌐 Mini Web App Testing
 Developed a simple HTML/CSS/JavaScript web app.
 Wrote manual test cases to test responsiveness and UI behavior.
+
 🎯 Career Goals
 Gain hands-on experience in manual and automated testing.
 Learn more advanced testing frameworks (e.g., Cypress, Playwright, Robot Framework).
 Contribute to open-source projects and bug bounties.
 Grow into a QA Automation Engineer role in the future.
+
 📫 Contact
 GitHub: https://github.com/Pilat11
 LinkedIn: https://www.linkedin.com/in/susanna-pilat-a46596143/
