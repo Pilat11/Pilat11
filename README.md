@@ -8,8 +8,8 @@ JavaScript
 Python
 SQL
 HTML & CSS
-Databases: MySQL, PostgreSQL
-Testing Tools: JIRA, Postman, Selenium (basic), PyTest
+Databases: MySQL, 
+Testing Tools: JIRA, 
 Version Control: Git, GitHub
 📂 Projects
 Here are some of the projects I’ve worked on to improve my QA and development skills:
