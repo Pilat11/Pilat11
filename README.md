@@ -8,20 +8,12 @@ JavaScript
 Python
 SQL
 HTML & CSS
-Databases: MySQL, 
+
 Testing Tools: JIRA, 
 Version Control: Git, GitHub
 📂 Projects
 Here are some of the projects I’ve worked on to improve my QA and development skills:
 
-🔎 Bug Tracking Project
-Created detailed bug reports using a sample e-commerce application.
-Categorized defects by severity and priority.
-Practiced with JIRA-like workflows.
-
-🌐 Mini Web App Testing
-Developed a simple HTML/CSS/JavaScript web app.
-Wrote manual test cases to test responsiveness and UI behavior.
 
 🎯 Career Goals
 Gain hands-on experience in manual and automated testing.
