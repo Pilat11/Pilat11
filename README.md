@@ -11,8 +11,44 @@ HTML & CSS
 
 Testing Tools: JIRA, 
 Version Control: Git, GitHub
+
 📂 Projects
+
 All my projects are in QAPortoflio repository.
+
+Certificates 🏆
+
+* Basics of manual testing 
+Udemy
+Issued Aug 2025
+
+*JavaScript Course
+Codecademy
+Issued Jul 2025
+
+*Kickstarter Java Script
+Code First Girls
+Issued May 2025
+
+*Lean Canvas
+Polski Fundusz Rozwoju S.A. (PFR)
+Issued Sep 2024
+
+* Design Thinking
+Polski Fundusz Rozwoju S.A. (PFR)
+Issued Aug 2024
+
+*CK: Introduction to Python & Apps
+Code First Girls
+Issued Jun 2024
+
+*Google Cybersecurity Certificate
+Coursera
+Issued Feb 2024
+
+*Software Developer Training
+OpenClassrooms
+Issued Dec 2023 
 
 
 🎯 Career Goals
