@@ -12,7 +12,7 @@ HTML & CSS
 Testing Tools: JIRA, 
 Version Control: Git, GitHub
 📂 Projects
-Here are some of the projects I’ve worked on to improve my QA and development skills:
+All my projects are in QAPortoflio repository.
 
 
 🎯 Career Goals
